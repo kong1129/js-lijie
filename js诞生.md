@@ -64,7 +64,15 @@ javascript语言实际上两种语言风格的混合产物--(简化的)函数式
 
 ## 看待javascript的设计缺陷
 javascript  
+既然Javascript有缺陷，数量还不少，那么它是不是一种很糟糕的语言？有没有前途？
 
+回答是Javascript并不算糟糕，相反它的编程能力很强大，前途很光明。
+
+首先，如果遵守良好的编程规范，加上第三方函数库的帮助，Javascript的这些缺陷大部分可以回避。
+
+其次，Javascript目前是网页编程的唯一语言，只要互联网继续发展，它就必然一起发展。目前，许多新项目大大扩展了它的用途，node.js使得Javascript可以用于后端的服务器编程，coffeeScript使你可以用python和ruby的语法，撰写Javascript。
+
+最后，只要发布新版本的语言标准（比如 ECMAscript 5），就可以弥补这些设计缺陷。当然，标准的发布和标准的实现是两回事，上述的很多缺陷也许会一直伴随到Javascript存在的最后一天。
 
 
 
