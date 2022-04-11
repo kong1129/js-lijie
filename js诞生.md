@@ -63,7 +63,7 @@ javascript语言实际上两种语言风格的混合产物--(简化的)函数式
 10.基本类型的包装对象
 
 ## 看待javascript的设计缺陷
-javascript 
+javascript  
 
 
 
